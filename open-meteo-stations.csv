@@ -1,0 +1,6 @@
+location_id,latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+0,20.632689,-103.35016,1587.0,-21600,America/Mexico_City,GMT-6
+1,20.773285,-103.28613,1321.0,-21600,America/Mexico_City,GMT-6
+2,20.632689,-103.44098,1627.0,-21600,America/Mexico_City,GMT-6
+3,20.773285,-103.46814,1616.0,-21600,America/Mexico_City,GMT-6
+4,20.702986,-103.36362,1560.0,-21600,America/Mexico_City,GMT-6
